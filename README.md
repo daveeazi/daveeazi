@@ -1,0 +1,1 @@
+My Name is David. I am a software engineer with interest in solving real-world problems with technology and dependable leadership. Exploring information technology advancements and personal development through Study and Research

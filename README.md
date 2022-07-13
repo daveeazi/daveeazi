@@ -5,6 +5,6 @@ I am `David` a `Software Engineer` with interest in solving real-world problems 
 Feel free to contact me on 
 
 * Twitter @twitter.com/iamdaveeazi 
-* @davidatat8@gmail.com 
+* Mail @davidatat8@gmail.com 
 
 **For a project!!**

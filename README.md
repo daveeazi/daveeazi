@@ -1,4 +1,6 @@
-# Hi there!! 👋
+<h1 align="center">Hi there!! 👋</h1>
+
+<h1 align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1>
 
 I am `David` a `Software Engineer` with interest in solving real-world problems with technology and dependable leadership. Exploring information technology advancements and personal development through Study and Research
 

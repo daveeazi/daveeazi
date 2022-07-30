@@ -21,3 +21,7 @@
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-atat/)
 
 **For a project!!**
+ 
+ **Subscribe to my Youtube channel:**
+ 
+ [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCX65e0hG-7RLY_VFbJZpoYw)

@@ -16,12 +16,10 @@
   <a href="https://github.com/search?q=user%daveeazi"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  
-**Feel free to contact me on**
+**For a project, feel free to contact me on**
 
 * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamdaveeazi)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-atat/)
-
-**For a project!!**
  
  **Subscribe to my Youtube channel:**
  

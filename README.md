@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am David!! 👋</h1>
 
-<h1 align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1>
+<!-- <h1 align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1> -->
 
 **I am `David Atat`, a Software Engineering student at [Alx Holbertoon School](https://github.com/holbertonschool) with interest in solving real-world problems with technology and dependable leadership. Exploring information technology advancements and personal development through Study and Research**
 

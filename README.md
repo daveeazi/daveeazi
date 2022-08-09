@@ -18,12 +18,12 @@
  
 #### For a project, feel free to contact me on
 
-* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iamdaveeazi)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-atat/)
-* <a href="https://www.instagram.com/daveeazi/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<p align="left">
+<a href="https://twitter.com/iamdaveeazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamniiengmann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david-atat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-atat/%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3btimz4%2b7srnsgxf6kqbm%2big%3d%3d" height="30" width="40" /></a>
+<a href="https://instagram.com/daveeazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daveeazi" height="30" width="40" /></a>
+</p>
  
  **Subscribe to my Youtube channel:**
  
-* [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCX65e0hG-7RLY_VFbJZpoYw)
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCX65e0hG-7RLY_VFbJZpoYw)

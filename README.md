@@ -22,7 +22,13 @@ Exploring information technology advancements and personal development through s
 </a>
 <a href="https://github.com/search?q=user%daveeazi"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
- 
+
+### Soft skills
+
+* Work collaboratively in a team
+* Meet tight deadlines
+* Good communication skills.
+
 #### For a project, feel free to contact me on
 
 <p align="left">
@@ -32,5 +38,5 @@ Exploring information technology advancements and personal development through s
 </p>
  
  **Subscribe to my Youtube channel:**
- 
-[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCX65e0hG-7RLY_VFbJZpoYw)
+
+[<img src="https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCX65e0hG-7RLY_VFbJZpoYw)

@@ -28,6 +28,7 @@ Exploring information technology advancements and personal development through s
 * Work collaboratively in a team
 * Meet tight deadlines
 * Good communication skills.
+* Open source contribution
 
 #### For a project, feel free to contact me on
 

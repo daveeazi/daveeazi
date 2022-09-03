@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm David!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h1 align="center"><img src="images/github.png"/></h1>
+
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1> -->
 
 **A Software Engineering student at [Alx Holbertoon School](https://github.com/holbertonschool) eager to learn, focused on trying new things and ardent about trending technologies, with interest in solving real-world problems with technology and dependable leadership.

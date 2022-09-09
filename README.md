@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm David!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://gpvc.arturio.dev/daveeazi" alt="Profile views"/>
+<!-- This link check's profile views <img src="https://gpvc.arturio.dev/daveeazi" alt="Profile views"/> -->
 
 <h1 align="center"><img src="images/github.png"/></h1>
 

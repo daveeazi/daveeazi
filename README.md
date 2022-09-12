@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm David!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- This link check's profile views <img src="https://gpvc.arturio.dev/daveeazi" alt="Profile views"/> -->
-
 <h1 align="center"><img src="images/github.png"/></h1>
 
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h1> -->
@@ -19,6 +17,7 @@ Exploring information technology advancements and personal development through s
  </a>
  <a href="https://github.com/search?q=user%3daveeazi%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3daveeazi%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" title="bash">
 </a>
  
 <a>
@@ -46,4 +45,5 @@ Exploring information technology advancements and personal development through s
 
 [<img src="https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCX65e0hG-7RLY_VFbJZpoYw)
 
+<img src="https://gpvc.arturio.dev/daveeazi" alt="Profile views"/>
 <!-- >:warning: **Warning:** under construction -->
